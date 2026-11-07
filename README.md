@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Aryna
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&height=65&lines=PHP+Developer;Backend+Systems+%26+API+Integrations;Data+Processing+%26+Automation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&height=65&lines=Software+Developer;Backend+Systems+%26+API+Integrations;Data+Processing+%26+Automation)
 
 **PHP · Yii/Yii2, Laravel · JavaScript · REST API · MySQL · RabbitMQ · AI · Automation**
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me
 
-I'm a PHP Developer focused on backend systems, API integrations, and automation.
+I'm a Software Developer focused on backend systems, API integrations, and automation.
 
 I develop backend systems, integrate external services, and automate workflows — from data processing and monitoring to infrastructure management through APIs.
 

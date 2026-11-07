@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 </div>
 
----
-
 ## 👩‍💻 About Me
 
 I'm a PHP Developer focused on backend systems, API integrations, and automation.
@@ -41,7 +39,42 @@ I have worked both in teams and independently, taking responsibility for the ong
 - 🌐 Full-stack development with PHP and JavaScript
 - 📚 Currently expanding my Laravel and cloud development skills
 
----
+```php
+<?php
+
+final class MyWorkPrinciples
+{
+    public function code(): array
+    {
+        return [
+            'clarity' => 'Write code that others can understand and maintain',
+            'context' => 'Understand existing behavior before changing it',
+            'simplicity' => 'Choose solutions that fit the problem',
+            'legacy' => 'Respect working code and improve it thoughtfully',
+        ];
+    }
+
+    public function work(): array
+    {
+        return [
+            'purpose' => 'Understand why a feature is needed, not just what to build',
+            'ownership' => 'Follow through and take responsibility for the result',
+            'honesty' => 'Be clear about what I know and ask when I do not',
+            'growth' => 'Learn new tools and question my own assumptions',
+        ];
+    }
+
+    public function teamwork(): array
+    {
+        return [
+            'respect' => 'Discuss ideas without making it personal',
+            'communication' => 'Share context and raise blockers early',
+            'feedback' => 'Treat code review as a way to improve together',
+            'support' => 'Share knowledge and ask for help when needed',
+        ];
+    }
+}
+```
 
 ## 🛠️ Tech Stack
 
@@ -136,7 +169,46 @@ I have worked both in teams and independently, taking responsibility for the ong
 
 </div>
 
----
+
+## 🤝 What I Bring to Your Team
+
+```php
+<?php
+
+final class WhatIBring
+{
+    public function strengths(): array
+    {
+        return [
+            'ownership' => [
+                'Taking features from requirements to production',
+                'Maintaining and evolving applications over time',
+            ],
+            'integrations' => [
+                'Connecting services through APIs and webhooks',
+                'Handling failures with retries and idempotency',
+            ],
+            'legacy_and_monoliths' => [
+                'Maintaining and evolving legacy PHP applications',
+                'Working with monolithic architectures and complex dependencies',
+                'Refactoring existing code while preserving business behavior',
+            ],
+            'problem_solving' => [
+                'Tracing issues across code, data, and infrastructure',
+                'Finding root causes before making changes',
+            ],
+            'automation' => [
+                'Turning repetitive operations into background workflows',
+                'Building tools for monitoring and infrastructure management',
+            ],
+            'collaboration' => [
+                'Working independently and as part of a team',
+                'Sharing context and documenting technical decisions',
+            ],
+        ];
+    }
+}
+```
 
 ## ⚙️ Core Competencies
 
@@ -195,7 +267,6 @@ I have worked both in teams and independently, taking responsibility for the ong
 </tr>
 </table>
 
----
 
 ## 🌱 Currently Learning & Practicing
 

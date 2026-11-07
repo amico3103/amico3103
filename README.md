@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-# 👋 Hi, I'm Arina
+# 👋 Hi, I'm Aryna
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&height=65&lines=PHP+Developer;Backend+Systems+%26+API+Integrations;Data+Processing+%26+Automation)
 

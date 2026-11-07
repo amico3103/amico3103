@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=850&height=65&lines=PHP+Developer;Backend+Systems+%26+API+Integrations;Data+Processing+%26+Automation)
 
-**PHP · JavaScript · SQL · APIs · Automation**
+**PHP · Yii/Yii2, Laravel · JavaScript · REST API · MySQL · RabbitMQ · AI · Automation**
 
 </div>
 
